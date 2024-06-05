@@ -1,0 +1,27 @@
+1. git init - To initialization of Empty directory 
+
+2. git pull or clone & Paste the link - to get updated data from git hub
+
+3. git status - to check whether commit is done or not or any other kind of status in git
+
+4. git add . - to add into git hub
+
+5. git commit -m "type your message relevant to task" - add data into stageing area 
+
+6.git push- to push data into git hub 
+
+7.git branch (new branch name)-to use create new branch in git hub
+
+8.git checkout (branch name)- to move from one directory to other directory 
+
+9.git branch -d (branch name)-to use delete existing branch from the git hub
+
+10.git branch -D (branch name)- to use delete forcefully  existing branch from the git hub
+
+11. git merge (branch name)- to use merge sub branch into main branch in git hub
+
+12. git rebase (branch name)- to use merge sub branch into main branch in git hub but some time you need to back  tracking at that time this method give easy visualization diagram  to understand .
+
+13.git branch -a - to use see the you are in which branch
+
+14.git branch -M main - to use set the branch in git hub and  local system
